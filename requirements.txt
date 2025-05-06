@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+tiktoken
+accelerate
+verovio
+openai
+python-multipart
+Pillow
+ultralytics
